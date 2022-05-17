@@ -8,6 +8,7 @@ namespace HelloVCS
         {
             Console.WriteLine("Hello VCS!");
             Console.WriteLine("We are using git!");
+            Console.WriteLine("By T800");
         }
     }
 }
