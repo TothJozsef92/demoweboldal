@@ -7,6 +7,7 @@ namespace HelloVCS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello VCS!");
+            Console.WriteLine("We are using git!");
         }
     }
 }
